@@ -1,2 +1,4 @@
 # Road-Pothole-Detection
-mini project on machine learning with python.pothole detector usind CNN
+<b>mini project on machine learning<b>
+In python3
+Pothole detector usind CNN
